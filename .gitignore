@@ -1,0 +1,9 @@
+/.idea/
+/.settings/
+/.vscode/
+/target/
+/.classpath
+/.project
+/.DS_Store
+*.iml
+/doc/*.lock
