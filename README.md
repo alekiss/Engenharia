@@ -2,4 +2,4 @@
 **Centro de Ciências Exatas e Educação - CCAE** \
 **Departamento de Ciências Exatas - DCX**
 
-**PAtividade da disciplina de Engenharia de Software.
+**Atividade da disciplina de Engenharia de Software.**
