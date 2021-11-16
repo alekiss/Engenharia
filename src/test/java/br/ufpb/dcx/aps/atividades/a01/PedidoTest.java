@@ -26,9 +26,9 @@ public class PedidoTest {
 
     @BeforeAll
     static void beforeAll() {
-        p1 = new Produto("sapato", "um sapato", 100.0, "00000001");
-        p2 = new Produto("camisa", "uma camisa", 200.0, "00000002");
-        p3 = new Produto("tenis", "um tenis", 300.0, "000000003");
+        p1 = new Produto("sapato", "um sapato", 100.0, "000000011");
+        p2 = new Produto("camisa", "uma camisa", 200.0, "000000022");
+        p3 = new Produto("tenis", "um tenis", 300.0, "0000000033");
     }
 
     @Test
