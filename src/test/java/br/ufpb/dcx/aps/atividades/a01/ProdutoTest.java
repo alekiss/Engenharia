@@ -35,7 +35,7 @@ class ProdutoTest {
     @Test
     @DisplayName("Testando o construtor")
     void testConstrutor() {
-        p = new Produto("p1", "desc", 10.0);
+        p = new Produto("p1", "desc", 10.0, "0000003");
         assertEquals("p1", p.getNome());
         assertEquals("desc", p.getDescricao());
         assertEquals(10.0, p.getValor());
